@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Galaxy x",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-1.png",
+    "id": "1",
+    "tag": "Galaxy"
+  },
+  {
+    "title": "Star y",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-2.png",
+    "id": "2",
+    "tag": "Star"
+  },
+  {
+    "title": "Moon z",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-3.png",
+    "id": "3",
+    "tag": "Moon"
+  },
+  {
+    "title": "Galaxy b",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-4.png",
+    "id": "4",
+    "tag": "Galaxy"
+  },
+  {
+    "title": "Star j",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-5.png",
+    "id": "5",
+    "tag": "Star"
+  },
+  {
+    "title": "Nebula h",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-6.png",
+    "id": "6",
+    "tag": "Nebula"
+  },
+  {
+    "title": "Galaxy q",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-7.png",
+    "id": "7",
+    "tag": "Galaxy"
+  },
+  {
+    "title": "Nebula g",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-8.png",
+    "id": "8",
+    "tag": "Nebula"
+  },
+  {
+    "title": "Star w",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-9.png",
+    "id": "9",
+    "tag": "Star"
+  },
+  {
+    "title": "Star t",
+    "credit": "Alura Space",
+    "image": "/assets/images/gallery/photo-10.png",
+    "id": "10",
+    "tag": "Star"
+  }
+]
