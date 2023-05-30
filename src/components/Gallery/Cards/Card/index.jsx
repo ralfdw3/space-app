@@ -14,8 +14,8 @@ export default function Card({ item, styles }) {
       <div>
         <p>{item.credit}</p>
         <span>
-          <img src={open} alt="icone de expandir" />
-          <img src={favorite} alt="ícone de coração ou favoritar" />
+          <img src={open} alt="expand icon" />
+          <img src={favorite} alt="like icon" />
         </span>
       </div>
     </li>
